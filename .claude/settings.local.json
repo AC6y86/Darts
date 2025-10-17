@@ -34,7 +34,11 @@
       "mcp__meshy-ai__create_text_to_texture_task",
       "mcp__unity-mcp__manage_script",
       "mcp__unity-mcp__manage_menu_item",
-      "Read(//c/Unity/com.meta.xr.mcp.extension/**)"
+      "Read(//c/Unity/com.meta.xr.mcp.extension/**)",
+      "Bash(git lfs track:*)",
+      "mcp__unity-mcp__meta_add_interactionrig",
+      "mcp__unity-mcp__meta_add_grabbable",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
