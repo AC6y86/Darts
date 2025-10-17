@@ -1,0 +1,11 @@
+{
+    "asset": "c61c5ba491520e74e9de4a9a518639e6",
+    "fileName": "0199ef44-1c3c-7372-8d8f-5d7b170d51bb_Preview.png",
+    "prompt": "wood paneling for a long cabin wall",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 645738636,
+    "w3CTraceId": "1253ab68ca74ae8e5d14fd2370b543fe",
+    "refinementMode": "Generation"
+}

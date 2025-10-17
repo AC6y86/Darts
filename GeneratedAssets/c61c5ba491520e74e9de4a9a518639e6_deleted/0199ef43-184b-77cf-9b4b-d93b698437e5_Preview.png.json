@@ -1,0 +1,11 @@
+{
+    "asset": "c61c5ba491520e74e9de4a9a518639e6",
+    "fileName": "0199ef43-184b-77cf-9b4b-d93b698437e5_Preview.png",
+    "prompt": "wood panels that I can use for a long wall",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1348692989,
+    "w3CTraceId": "a5a64bb8b93d4e1429d3997897a7f029",
+    "refinementMode": "Generation"
+}

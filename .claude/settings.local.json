@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(test:*)",
+      "Read(//mnt/c/Unity/unity-mcp/Packages/com.unity.ai.mcp/Server~/**)",
+      "Read(//home/joepaley/.config/**)",
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp list:*)",
+      "Bash(claude mcp inspect:*)",
+      "Bash(claude mcp:*)",
+      "Read(//mnt/c/Unity/unity-mcp/Packages/com.unity.ai.mcp/Editor/Tools/**)",
+      "Read(//mnt/c/Unity/unity-mcp/Packages/com.unity.ai.mcp/Documentation~/**)",
+      "Read(//c/Unity/unity-mcp/Packages/com.unity.ai.mcp/Server~/**)",
+      "mcp__unity-mcp__manage_asset",
+      "mcp__unity-mcp__manage_gameobject",
+      "Bash(python:*)",
+      "Read(//c/Users/joepaley/Projects/meshy-ai-mcp-server/**)",
+      "Bash(pip install:*)",
+      "Read(//c/Users/joepaley/**)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "mcp__meshy-ai__stream_text_to_3d_task",
+      "mcp__meshy-ai__retrieve_text_to_3d_task",
+      "Bash(curl:*)",
+      "Read(//c/Unity/unity-mcp/Packages/com.unity.ai.mcp/**)",
+      "Bash(node:*)",
+      "Bash(tasklist:*)",
+      "mcp__unity-mcp__read_console",
+      "mcp__unity-mcp__manage_scene",
+      "mcp__unity-mcp__import_external_model",
+      "mcp__meshy-ai__create_text_to_3d_task",
+      "mcp__meshy-ai__get_balance",
+      "Bash(find:*)",
+      "mcp__meshy-ai__create_text_to_texture_task",
+      "mcp__unity-mcp__manage_script",
+      "mcp__unity-mcp__manage_menu_item",
+      "Read(//c/Unity/com.meta.xr.mcp.extension/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

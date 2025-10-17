@@ -1,0 +1,11 @@
+{
+    "asset": "bf43b53b37d22a04691c415f04a153dd",
+    "fileName": "0199ef3f-3424-7cb8-bd77-b630d479185a_Preview.png",
+    "prompt": "wood boards like in a cabin",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1779052880,
+    "w3CTraceId": "2dbcd9615f5d70d25fa91689c33ca210",
+    "refinementMode": "Generation"
+}
